@@ -427,11 +427,14 @@ width: 200px;
 
 }
 .contact-section .info{
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 10px;
+    display: flex;
+    
+    justify-content: center;
 }
 .contact-section .info i{
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 
